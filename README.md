@@ -20,10 +20,10 @@ To run *Trace*, following software/libraries should be installed:
 - [Anaconda](https://www.anaconda.com/)
 - [TensorFlow 1.15](https://www.tensorflow.org/)
 - [joblib==0.11](https://pypi.org/project/joblib/)
-- [matplotlib]
-- [numpy]
-- [scikit-learn]
-- [requests]
+- matplotlib
+- numpy
+- scikit-learn
+- requests
 
 Other libraries may also be installed if not existent beforehand. For most of them, `pip install` would work. 
 
